@@ -1,7 +1,4 @@
 {
     "name": "shecluded",
-    "type": "docker",
-    "alias": [
-        "shecluded.com"
-    ]
+    "type": "docker"
 }
